@@ -56,11 +56,11 @@ print("hello world")
 ```
 
 <!-- pegar o incluir tablas-->
-| tables |  site | cool |
-| -------|  -----| -----|
-|absbss  |  sssss| sssss|
-|eeeeeeee| wwwwww| wwwww|
-|prueba  | sonia |prueba|
+| tables |  columna | columna|
+| -------|  -----   | -----  |
+| fila1  |  fila1   | fila1  |
+| fila2  |  fila2   | fila2  |
+| fila3  |  fila3   | fila3  |
 
 <!-- pegar o incluir imagenes-->
 
